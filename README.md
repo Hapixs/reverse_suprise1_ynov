@@ -68,4 +68,4 @@ func main() {
 
 <br><br><br><br><br><br><br><br><br>
 
-![alt text](https://c.tenor.com/6RQruxVwKZgAAAAC/rainbow-reverse.gif)![alt text](https://c.tenor.com/6RQruxVwKZgAAAAC/rainbow-reverse.gif)![alt text](https://c.tenor.com/6RQruxVwKZgAAAAC/rainbow-reverse.gif)
+![alt text](https://c.tenor.com/6RQruxVwKZgAAAAC/rainbow-reverse.gif)![alt text](https://c.tenor.com/6RQruxVwKZgAAAAC/rainbow-reverse.gif)
