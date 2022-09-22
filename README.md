@@ -23,7 +23,7 @@ func main() {
 ```
 
 
->Cette fonction à pour but d'ajouter tout les nombre d'un tableau ensemble d'une façon récursive et de retourner le réultat
+>Cette fonction a pour but d'ajouter tous les nombres d'un tableau ensemble d'une façon récursive et de retourner le résultat finale
 
 * ### **Example 1**
     ```go
@@ -34,7 +34,7 @@ func main() {
     1+2+3+10+4+10
     ```
     Résultat = ```30```<br> 
-    <br
+    <br>
 * ### Example 2
     ```go
     Surprise([]int{45, 2000, 2+8, 20, 0, 1})
